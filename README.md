@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elisafigueroa
-- 🌱 I’m currently learning Software Development.
+- 🌱 Aspiring Data Scientist
 - 📫 Reach me at: elisafigueroanarvaez@gmail.com
 
 <!---
